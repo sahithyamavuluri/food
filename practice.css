@@ -1,0 +1,184 @@
+body {
+    background-color: rgb(11, 1, 1);
+    color: white;
+}
+
+.intro {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY17uL2t1XlraoyQ4VLvzuiD08iNqMaS0Sjum-pKKNaw&s=10");
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 50px;
+    font-size: 30px;
+}
+
+.btn {
+    padding: 15px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: none;
+}
+
+.btn1 {
+    background-color: orangered;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    border-style: none;
+}
+
+.info {
+    text-align: center;
+}
+
+.menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(11, 1, 1);
+    color: white;
+    flex-wrap: wrap;
+}
+
+.box {
+    width: 200px;
+    height: 330px;
+    background-color: rgb(11, 1, 1);
+    box-shadow: 0 0 10px rgba(211, 140, 67, 0.2);
+    border: 2px solid orangered;
+    border-radius: 20px;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+
+.pizza {
+    width: 180px;
+    border-radius: 20px;
+}
+
+.Burger {
+    width: 180px;
+    border-radius: 20px;
+    height: 140px;
+}
+
+.Tacos {
+    width: 180px;
+    border-radius: 20px;
+}
+
+.Pasta {
+    width: 180px;
+    border-radius: 20px;
+    height: 140px;
+}
+
+.head {
+    text-align: center;
+    background-color: rgb(11, 1, 1);
+    color: white;
+}
+
+.Cake {
+    width: 180px;
+    border-radius: 20px;
+    height: 140px;
+}
+
+.carrot {
+    width: 180px;
+    border-radius: 20px;
+    height: 100px;
+}
+
+.forest {
+    width: 150px;
+    border-radius: 20px;
+    height: 100px;
+}
+
+.delight {
+    width: 150px;
+    border-radius: 20px;
+    height: 115px;
+}
+
+.order {
+    background-color: orangered;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    border-style: inset;
+    border-color: white;
+}
+
+.desc {
+    text-align: center;
+}
+
+.cook {
+    color: orangered;
+}
+
+.card {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.ingr {
+    width: 170px;
+    text-align: center;
+    padding: 35px;
+}
+
+.ingr1 {
+    width: 180px;
+    border-radius: 20px;
+    height: 140px;
+}
+
+.hygiene {
+    width: 180px;
+    border-radius: 20px;
+    height: 140px;
+}
+
+.deliv {
+    width: 180px;
+    border-radius: 20px;
+    height: 140px;
+}
+
+.price {
+    width: 180px;
+    border-radius: 20px;
+    height: 140px;
+}
+
+.footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 75px;
+    background-color: rgb(61, 58, 58);
+}
+
+.link {
+    color: orangered;
+}
+
+.text {
+    text-align: center;
+}
+
+.social {
+    width: 60px;
+}
+
+.copyrights {
+    text-align: center;
+}
